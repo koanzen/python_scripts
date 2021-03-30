@@ -2,7 +2,7 @@
 
 # Background
 
-This branch is a collection of python scripts created while in my Python journey.
+This branch is a collection of python scripts created while in my journey learning Python.
 
 # List of software developers
 
