@@ -1,0 +1,78 @@
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 24, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 9, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 24, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 9, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 24, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 9, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
+Traceback (most recent call last):
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 25, in <module>
+    boxPrint('$',2,2)
+  File "/home/nexus/makery/sandbox/debugging_raise_and_assert.py", line 10, in boxPrint
+    raise Exception('Width must be greater than 2.')
+Exception: Width must be greater than 2.
