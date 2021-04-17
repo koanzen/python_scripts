@@ -26,3 +26,16 @@ print('string1',other,another,sep=',') #print the concatinated strings and value
 print('string1',end=' ')
 print(other,end=' ')
 print(another)
+
+
+# to Read big numbers
+# in python we can use underscores to represent commas in big numbers
+num1 = 100_000_000_000
+num2 = 100_000_000
+
+total = num1 + num2
+
+#will format the numbers to be readable delitered by comma
+print(f'{num1:,}')
+print(f'{num2:,}')
+print(f'{total:,}')

@@ -61,3 +61,13 @@ customer = {
 
 for key, val in customer.items():
     print(f"Key: {key}, Value: {val}")
+
+
+# using zip function in list to unpack the lists
+lst1 = ['one','two','three']
+lst2 = ['red','green','blue']
+lst3 = ['apple','lime','berry']
+
+#this will work with same structured lists
+for num, color, fruit in zip(lst1,lst2,lst3):
+    print(f'number: {num} is {color} {fruit}')
