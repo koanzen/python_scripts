@@ -7,6 +7,8 @@ b = a
 c = 10
 a = 9
 
+# _ (underscore symbol) is called a throw away variable which commonly used to for loop for indexes
+
 #you can also assign values in multiple variables inline
 x,y,z = 1,2,3
 

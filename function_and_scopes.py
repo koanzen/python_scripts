@@ -93,7 +93,7 @@ def fib(n):
 	a=0
 	b=1
 	print(a,b,sep=' ',end=' ')
-	for i in range(n):
+	for _ in range(n):
 		c = a + b #incremental of a and b
 		a = b #the value of b is shifted to a
 		b = c #the value of c is will be supplied to b
